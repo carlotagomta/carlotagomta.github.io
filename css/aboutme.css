@@ -1,0 +1,22 @@
+h1{
+	color: black;
+	text-align:center;
+	font-size:100px;
+	font-family:courier;
+	font-weight: bold ;
+}
+
+h2{
+	color:black;
+	border:5px solid black; 
+	text-align:center;
+}
+p{ 
+	color:black; 
+	text-align: center; ;
+	font-size: 20px;
+}
+.carlota{
+	width: 400px;
+	height:400px;
+}
